@@ -58,3 +58,8 @@ Demonstrar habilidades práticas em automação de processos, integração de fe
 ## 🔒 Segurança
 
 O projeto utiliza dados demonstrativos. Credenciais e chaves de API não devem ser compartilhadas publicamente.
+
+
+## 📊 Dashboard Interativo
+
+![Dashboard SmartFinance AI](dashboard-smartfinance.png)
